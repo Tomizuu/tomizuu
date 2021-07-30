@@ -1,3 +1,3 @@
 
-![](https://github.com/tomizuu/tomizuu/blob/main/overview.svg)
-![](https://github.com/tomizuu/tomizuu/blob/main/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomizuu&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomizuu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
