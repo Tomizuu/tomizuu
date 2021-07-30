@@ -1,3 +1,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomizuu&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomizuu&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomizuu&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
